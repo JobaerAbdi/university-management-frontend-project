@@ -1,7 +1,8 @@
+import Main from './components/layout/MainLayout'
 const App = () => {
   return (
     <div>
-      <h1>PH-University-management-application</h1>
+      <Main/>
     </div>
   );
 };
